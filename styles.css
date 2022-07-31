@@ -1,0 +1,59 @@
+/* Name: Reese Cox */
+/* Date: 7/31/22 */
+/* Project: Final */
+
+h2{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+
+/* Photo of myself */
+img.me{
+  width: 750px;
+}
+
+.main-title{
+  text-align: center;
+  font-size: 60px;
+}
+
+.navi{
+  padding:15px;
+}
+
+.interest{
+  padding: 15px;
+}
+
+body{
+  background-color: #a3b899;
+  margin: 10px 150px 20px;
+
+}
+
+.col1{
+  background-color: white;
+  border-style: solid;
+  border-width: 5px;
+  padding: 5px;
+}
+
+.row2{
+  text-align: center;
+}
+
+h3{
+  padding: 15px;
+}
+
+.project{
+  padding:15px;
+}
+
+@media screen and (max-width: 743px) {
+  body{
+    margin: 0px 0px 0px;
+  }
+}
